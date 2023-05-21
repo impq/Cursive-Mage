@@ -1,0 +1,21 @@
+{
+  "name": "cursive-mage-python",
+  "displayName": "Cursive Mage",
+  "description": "Dark python based vs code theme that utilizes cursive as a font",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cursive Mage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cursive Mage-color-theme.json"
+      }
+    ]
+  }
+}
