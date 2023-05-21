@@ -1,2 +1,3 @@
 # Cursive-Mage
-sexy vs code theme i made out of boredom a star wont kill you
+![Screenshot1](https://i.imgur.com/RXZOcDL.png)
+![Screenshot2](https://i.imgur.com/QrwqgST.png)
